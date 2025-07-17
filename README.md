@@ -1,0 +1,1 @@
+基于TensorRT对Yolov8进行量化压缩，并部署至JetsonNano上的一个Qt程序
